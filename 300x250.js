@@ -5,4 +5,4 @@ atOptions = {
 	'width' : 300,
 	'params' : {}
 };
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://harassinganticipation.com/d2511243b676dfe1d382bc1ab631cc99/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '//beliefnormandygarbage.com/d2511243b676dfe1d382bc1ab631cc99/invoke.js"></scr' + 'ipt>');
