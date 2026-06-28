@@ -1,8 +1,8 @@
 atOptions = {
-	'key' : 'b7630b9df3b30b8eb3be325a922efeb8',
-	'format' : 'iframe',
-	'height' : 250,
-	'width' : 300,
-	'params' : {}
-};
-document.write('<scr' + 'ipt src="//beliefnormandygarbage.com/b7630b9df3b30b8eb3be325a922efeb8/invoke.js"></scr' + 'ipt>');
+        'key' : '412bafa6efe5f45ab826dc261a65ce77',
+        'format' : 'iframe',
+        'height' : 250,
+        'width' : 300,
+        'params' : {}
+    };
+    document.write('<scr' + 'ipt src="//www.highperformanceformat.com/412bafa6efe5f45ab826dc261a65ce77/invoke.js"></scr' + 'ipt>');
